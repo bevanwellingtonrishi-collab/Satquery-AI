@@ -1,0 +1,14 @@
+.vercel
+node_modules/
+dist/
+build/
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
