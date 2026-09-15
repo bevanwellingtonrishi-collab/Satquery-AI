@@ -10,6 +10,7 @@ build/
 dist/
 *.tsbuildinfo
 next-env.d.ts
+next-env.d.tsx
 
 # Python & Backend
 __pycache__/
